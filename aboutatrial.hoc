@@ -5,7 +5,7 @@ b.intercept(1)
 
 xpanel("",1)
 xlabel("The Virtual Human Atrial Cell is assembled for NEURON  by I Jacobson")
-xlabel("AstraZeneca R & D, Mölndal Sweden ")
+xlabel("AstraZeneca R & D, MÃ¶lndal Sweden ")
 xlabel ("emailaddress ingemar.jacobson@astrazeneca.com")
 xlabel("The model is based on the paper by Courtemanche et al")
 xlabel(" Am J Physiol 1998 275(Heart Circ Physiol 44):H301-H321 and conductance values ") 
